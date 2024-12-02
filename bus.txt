@@ -1,0 +1,8 @@
+Sr|  Bus Number|    Train Name    |  Time   |
+1 |   12901    |  Gujarat   ST    | 10.30AM |
+2 |   22945    | Saurashtra ST    | 11.30AM |
+3 |   19033    |   Gujat    ST    | 12.30PM |
+4 |   20959    |  Vadnagar  ST    | 01.00PM |
+5 |   22953    |  Gujarat   ST    | 02.00PM |
+6 |   23458    |  Vadnagar   SR   | 02.34PM |
+---------------------------------------------
